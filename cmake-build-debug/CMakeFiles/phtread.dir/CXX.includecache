@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lenyas/CLionProjects/phtread/Functions.h
+pthread.h
+/home/lenyas/CLionProjects/phtread/pthread.h
+fstream
+/home/lenyas/CLionProjects/phtread/fstream
+
+/home/lenyas/CLionProjects/phtread/main.cpp
+iostream
+-
+Functions.h
+/home/lenyas/CLionProjects/phtread/Functions.h
+
